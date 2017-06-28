@@ -1,22 +1,25 @@
 #include "Game.cpp"
 #include <iostream>
 #include <fstream>
-
+#include <string>
 using namespace std;
 int main(){
-    string teams[2] ={"a","b"};
+    string teams[2] ={"Air","LSU"};
     Game game(teams);
  
-    
+    cout<<game.teams[1];
     ifstream readFile("input.txt");
     string s;
-    int i=0;
+    
     while (readFile>>s){
        game.process_string(s);
-     
+       
+       
       
        
     }
-    cout<<endl<<endl<<i<<endl;
+    game.process_string("END OF FILE");
+
+    cout<<endl<<game.outs<<endl<<endl;
     return 0;
 }

@@ -1,4 +1,5 @@
-CC=g++
+CC = g++
+CCFLAGS = -pedantic -std=c++11 $(debug_or_optimize)
 all: main.cpp Game.cpp Player.cpp
-	$(CC) main.cpp Game.cpp Player.cpp -o main
+	$(CC) $(CCFLAGS) main.cpp Game.cpp Player.cpp -o main
 
