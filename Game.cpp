@@ -40,6 +40,7 @@ public:
    int score [2];
    string teams[2];
    string bases[3];
+   string bases_duplicate[3];
    bool is_name;
    bool team;
    unordered_map<string,int> equivalences;
@@ -63,21 +64,23 @@ public:
     //keyword swinging ("out"); keywords_array.push_back(swinging);
     keyword popped("popped"); keywords_array.push_back(popped);
     keyword double_play("double"); keywords_array.push_back(double_play);
+    keyword caught ("caught"); keywords_array.push_back(caught);
     
     keyword walked ("walked"); keywords_array.push_back(walked);
     keyword reached ("reached"); keywords_array.push_back(reached);
     keyword singled ("singled"); keywords_array.push_back(singled);
     keyword doubled ("doubled"); keywords_array.push_back(doubled);
     keyword tripled ("tripled"); keywords_array.push_back(tripled);
-    keyword homered ("homered"); keywords_array.push_back(homered);
     
+    keyword homered ("homered"); keywords_array.push_back(homered);
+    keyword scored ("scored"); keywords_array.push_back(scored);
     
     
     keyword advanced ("advanced"); keywords_array.push_back(advanced); 
     keyword stole ("stole"); keywords_array.push_back(stole);          
-    keyword caught ("caught"); keywords_array.push_back(caught);
+   
     
-    keyword scored ("scored"); keywords_array.push_back(scored);
+    
     keyword second ("second"); keywords_array.push_back(second);
     keyword third ("third"); keywords_array.push_back(third);
     
@@ -93,10 +96,13 @@ public:
     equivalences.insert(pair <string,int> ("second",1));
     equivalences.insert(pair <string,int> ("third",2));
     
+    equivalences.insert(pair <string,int> ("homered",3));
+    equivalences.insert(pair <string,int> ("scored",3));
+    
 
    }
    string get_player(int start){
-       
+   
        
        for (int i=start;;++i){
           if (buffer[i][0]>='A' && buffer[i][0]<='Z'){
@@ -107,28 +113,97 @@ public:
        return ""; 
       
    }
-   void update_bases(int i,string player){
-       cout<<i<<player<<endl;
-       bases[i]=player;
    
+   string get_bases(int start){
        
+       
+       for (int i=start;;--i){
+           for (int j=13;j<15;++j){
+		  if (keywords_array[j](buffer[i])){
+		     return keywords_array[j].getKey();
+		     
+		  }
+          }
+       }
+       return ""; 
+      
+   }
+   void assign_bases(int base,string player){
+       //cout<<i<<player<<endl;
+      
+       if (base<=2)
+           bases_duplicate[base]=player;
+       else 
+       	   score[team]++;
+
+       
+   }
+   void update_bases(){
+       for (int i=0;i<3;++i){
+          bases[i]=bases_duplicate[i];
+          bases_duplicate[i]="";
+       }
+       
+       for (int i=0;i<3;++i){
+           for (int j=i+1;j<3;++j){
+                if (bases[i]==bases[j]) bases[i]="";
+           }
+       
+       }
+   }
+   
+   void reset(){
+       for (int i=0;i<3;++i){
+          bases[i]="";
+          bases_duplicate[i]="";
+       }
    }
 
    void calc_situation(){
     	for (int i=buffer.size()-1;i>0;--i){
 	       for (int j=0;j<keywords_array.size();++j){
-		    if (keywords_array[j](buffer[i])==true && j>=0 && j<=2){
+	           
+		    if (keywords_array[j](buffer[i])==true && j>=0 && j<=3){
 		         
 		         outs++;
+		         break;
 		        
-		    }else if (keywords_array[j](buffer[i])==true && j>=3 && j<=7){
+		    }else if (keywords_array[j](buffer[i])==true && j>=4 && j<=8){
 		        
-		         update_bases(equivalences[keywords_array[j].getKey()],get_player(i));
+		         assign_bases(equivalences[keywords_array[j].getKey()],get_player(i));
+		         break;
+		    }else if (keywords_array[j](buffer[i])==true && j>=9 && j<=10){
+		        
+		         
+		         assign_bases(equivalences[keywords_array[j].getKey()],get_player(i));
+		         break;
+		         
+		    }else if (keywords_array[j](buffer[i])==true && j>=11 && j<=12){
+		        
+		         
+		         assign_bases(equivalences[get_bases(i)],get_player(i));
+		         break;
+		         
 		    }
+		   
 		    
 		    
 	       }
+	       
+		    if (buffer[i][buffer[i].length()-1]=='.'){
+		    
+		         update_bases();
+		          for (int i=0;i<3;++i){
+	 			cout<<bases[i]<<endl;
+      			 }
+      			 cout<<outs<<endl;
+      			 cout<<"============"<<endl;
+			
+      			
+		    }
+		  
 	}
+	
    }
    void calc_base_out(){
    
@@ -140,6 +215,7 @@ public:
             calc_situation();
 	    buffer.clear();
 	    team=!team;
+	    reset();
         }
         if (is_name){
            is_name=false;
