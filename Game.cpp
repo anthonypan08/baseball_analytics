@@ -43,6 +43,7 @@ public:
    string bases_duplicate[3];
    bool is_name;
    bool team;
+   bool new_batter;
    unordered_map<string,int> equivalences;
    Game(string teams_in[2]):is_name(false),outs(0){
        for (int i=0;i<2;++i){
@@ -133,15 +134,20 @@ public:
       
        if (base<=2)
            bases_duplicate[base]=player;
-       else 
+       else {
        	   score[team]++;
+       	   for (int i=0;i<3;++i){
+              if (bases_duplicate[i]==player) bases_duplicate[i]="";
+          }
+       	   
+       }
 
        
    }
    void update_bases(){
        for (int i=0;i<3;++i){
           bases[i]=bases_duplicate[i];
-          bases_duplicate[i]="";
+          bases_duplicate[i]=bases[i];
        }
        
        for (int i=0;i<3;++i){
@@ -190,19 +196,30 @@ public:
 		    
 	       }
 	       
-		    if (buffer[i][buffer[i].length()-1]=='.'){
-		    
-		         update_bases();
-		          for (int i=0;i<3;++i){
-	 			cout<<bases[i]<<endl;
-      			 }
-      			 cout<<outs<<endl;
-      			 cout<<"============"<<endl;
-			
-      			
-		    }
+               if (buffer[i].find(")")!=string::npos){
+	    
+	            new_batter=true;
+	    
+		
+	       }	
+	    
+	    
+	       if (buffer[i][buffer[i].length()-1]=='.'&&new_batter){
+	             update_bases();
+	         
+	             for (int i=0;i<3;++i){
+ 			cout<<bases[i]<<endl;
+		      }
+		      cout<<outs<<endl;
+		      cout<<"============"<<endl;
+		      new_batter=false;
+		 
+		
+	       }	   
 		  
 	}
+	
+	 
 	
    }
    void calc_base_out(){
