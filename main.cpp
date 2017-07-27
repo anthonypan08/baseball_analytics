@@ -4,10 +4,10 @@
 #include <string>
 using namespace std;
 int main(){
-    string teams[2] ={"Air","LSU"};
+    string teams[2] ={"USD","Michigan"};
     Game game(teams);
  
-    cout<<game.teams[1];
+   
     ifstream readFile("input.txt");
     string s;
     
@@ -18,8 +18,8 @@ int main(){
       
        
     }
-    game.process_string("END OF FILE");
+    //game.process_string("END OF FILE");
 
-    cout<<endl<<game.outs<<endl<<endl;
+    //cout<<endl<<game.outs<<endl<<endl;
     return 0;
 }

@@ -1,33 +1,317 @@
- Air Force 1st - GROESBECK struck out looking (2-2 SBFBFFS). READY grounded out to 3b (2-1 BBF). JONES, T. struck out swinging (1-2 BFSS). 0 runs, 0 hits, 0 errors, 0 LOB.
 
-LSU 1st - Freeman walked (3-1 BSBBB). Duplantis reached on a fielder's choice (0-1 S); Freeman out at second ss to 2b. Duplantis stole second. Robertson popped up to ss (3-1 SBBB). Deichmann struck out swinging (0-2 SFS). 0 runs, 0 hits, 0 errors, 1 LOB.
+Michigan - Top of 1st
+Play Description		MIC 	USC
+Thomas singled to shortstop (1-2 BKF). 	0 	0
+Thomas stole second. 	0 	0
+Bivens walked (3-2 BBKBKB). 	0 	0
+Lewis struck out looking (1-2 BKFK). 	0 	0
+Lugbauer struck out looking (1-2 BKKK). 	0 	0
+Wenson popped up to 2b (2-2 KBSBF). 	0 	0
 
-Air Force 2nd - HASLAM flied out to rf (0-2 SS). ZABOJNIK flied out to cf (1-1 BF). EASLEY struck out looking (2-2 BFBFS). 0 runs, 0 hits, 0 errors, 0 LOB.
+Runs
+    0
+Hits
+    1
+Errors
+    0
+Left On Base
+    2
 
-LSU 2nd - Slaughter grounded out to ss (0-1 F). Adams walked (3-1 BBBSB). Jordan, Be. flied out to cf (0-0). Papierski flied out to ss (1-1 FB). 0 runs, 0 hits, 0 errors, 1 LOB.
+USC - Bottom of 1st
+Play Description 	MIC 	USC
+Acosta, M. struck out looking (3-2 KBBFBK). 	0 	0
+Edson, D. struck out swinging (2-2 KKBFBS). 	0 	0
+Dempster, C. struck out swinging (1-2 SSBFS). 	0 	0
 
-Air Force 3rd - JONES, D. struck out looking (1-2 SSBS). ROBB grounded out to ss (0-0). DAU struck out swinging (3-2 BSSBBS). 0 runs, 0 hits, 0 errors, 0 LOB.
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
 
-LSU 3rd - Smith flied out to rf (1-0 B). Freeman grounded out to 3b (1-2 FFFB). Duplantis flied out to cf (1-0 B). 0 runs, 0 hits, 0 errors, 0 LOB.
+Michigan - Top of 2nd
+Play Description		MIC 	USC
+Brdar popped up to ss (2-1 BKB). 	0 	0
+Poirier flied out to lf (1-2 BFS). 	0 	0
+Engelmann singled up the middle (0-1 K). 	0 	0
+Slater doubled to left center, RBI (1-1 FB); Engelmann scored. 	1 	0
+Thomas flied out to rf (2-2 KFBB). 	1 	0
 
-Air Force 4th - GROESBECK flied out to rf (0-0). READY singled to center field (0-0). JONES, T. walked (3-2 BBBSSFFB); READY advanced to second. HASLAM reached on a fielder's choice (3-2 BBBSFF); JONES, T. advanced to second on a throwing error by 3b, advanced to third; READY scored. ZABOJNIK singled to center field, RBI (2-2 SSBBFF); HASLAM advanced to second; JONES, T. scored, unearned. EASLEY grounded into double play ss to 2b to 1b (0-1 S); ZABOJNIK out on the play. 2 runs, 2 hits, 1 error, 1 LOB.
+Runs
+    1
+Hits
+    2
+Errors
+    0
+Left On Base
+    1
 
-LSU 4th - Robertson singled to right field (0-2 FS). Deichmann homered to right field, 2 RBI (1-1 FB); Robertson scored. Slaughter singled through the right side (2-1 BBF). Adams struck out swinging (0-2 FSS). Jordan, Be. grounded out to 3b (0-0); Slaughter advanced to second. Papierski singled to third base (0-1 S); Slaughter advanced to third. Smith homered to right field, 3 RBI (1-2 SSB); Papierski scored; Slaughter scored. Freeman doubled to left field (2-0 BB). Freeman advanced to third on a wild pitch, scored. Duplantis struck out looking (2-2 SSBFBS). 6 runs, 6 hits, 0 errors, 0 LOB.
+USC - Bottom of 2nd
+Play Description 	MIC 	USC
+Nootbaar, L. flied out to rf (0-2 KK). 	1 	0
+Carrillo, A. struck out looking (2-2 KBSBK). 	1 	0
+Shockey, B. grounded out to ss (0-1 K). 	1 	0
 
-Air Force 5th - JONES, D. grounded out to 3b (0-1 S). ROBB flied out to cf (0-0). DAU struck out looking (3-2 BBSFBS). 0 runs, 0 hits, 0 errors, 0 LOB.
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
 
-LSU 5th - GILBERT to p for DEVRIES. Robertson grounded out to ss (2-2 BBSF). Deichmann singled to center field (1-1 SB). Deichmann advanced to second on a balk. Slaughter struck out looking (2-2 SBSBS). Adams grounded out to p (2-2 SBSFB). 0 runs, 1 hit, 0 errors, 1 LOB.
+Michigan - Top of 3rd
+Play Description		MIC 	USC
+Bivens singled to left field (0-0). 	1 	0
+Lewis singled to right field (0-0); Bivens advanced to second. 	1 	0
+Lugbauer reached on a fielder's choice (0-0); Lewis out at second 1b to ss; Bivens advanced to third. 	1 	0
+Wenson doubled to right field, RBI (0-1 K); Lugbauer advanced to third, out at home rf to ss to c; Bivens scored. 	2 	0
+Brdar walked (3-1 FBBBB). 	2 	0
+Poirier reached on a throwing error by 2b (1-1 SB); Brdar advanced to third; Wenson scored, unearned. 	3 	0
+Poirier stole second. 	3 	0
+Engelmann popped up to lf (3-2 BKFFBFB). 	3 	0
 
-Air Force 6th - Hess to p for Walker. GROESBECK struck out swinging (1-2 SFBS). READY grounded out to 3b (3-2 SSBBB). JONES, T. homered to left field, RBI (0-1 F). HASLAM singled to pitcher (1-0 B). HASLAM advanced to second on a wild pitch. ZABOJNIK walked (3-2 SBBBSB). EASLEY struck out swinging (1-2 SSFBFS). 1 run, 2 hits, 0 errors, 2 LOB.
+Runs
+    2
+Hits
+    3
+Errors
+    1
+Left On Base
+    2
 
-LSU 6th - JONES, W. to p for GILBERT. Jordan, Be. flied out to rf (0-1 S). Papierski fouled out to 1b (3-2 FBBSBF). Smith walked (3-2 BSBBFB). Smith stole second. Freeman singled to left field, RBI (3-1 BBBS); Smith scored. Freeman stole second. Duplantis flied out to cf (2-1 SBB). 1 run, 1 hit, 0 errors, 1 LOB.
+USC - Bottom of 3rd
+Play Description 	MIC 	USC
+Perez, B. lined out to 3b (0-1 K). 	3 	0
+Murphy, K. grounded out to ss (1-1 KB). 	3 	0
+Pritchard, T grounded out to 2b (0-1 F). 	3 	0
 
-Air Force 7th - Peterson to p for Hess. JONES, D. struck out swinging (0-2 SSFS). ROBB flied out to rf (1-1 BS). DAU walked (3-1 BBBSB). GROESBECK fouled out to rf (0-1 S). 0 runs, 0 hits, 0 errors, 1 LOB.
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
 
-LSU 7th - WISS to lf for JONES, D.. RIEKER to p for JONES, W.. Robertson singled to left field (1-2 FSFB). Robertson stole second. Deichmann walked (3-2 FBBBSB). Robertson advanced to third on a throwing error by c. Slaughter singled to right field, RBI (2-1 SBB); Deichmann advanced to second; Robertson scored. Templet pinch hit for Adams. GERLICA to p for RIEKER. Watson pinch ran for Deichmann. Templet flied out to lf (0-0). Breaux pinch hit for Jordan, Be.. Breaux struck out swinging (0-2 SFS). Coomes pinch hit for Papierski. Coomes flied out to lf (1-1 SB). 1 run, 2 hits, 1 error, 2 LOB.
+Michigan - Top of 4th
+Play Description		MIC 	USC
+Slater grounded out to 2b (0-1 S). 	3 	0
+Thomas grounded out to ss (0-0). 	3 	0
+Bivens hit by pitch (3-2 KKBBB). 	3 	0
+Lewis struck out swinging (1-2 KBFFS). 	3 	0
 
-Air Force 8th - Watson to lf. Breaux to rf. Coomes to c. Norman to p for Peterson. READY fouled out to 1b (0-0). JONES, T. struck out swinging (1-2 SBSS). HASLAM popped up to 2b (1-2 BSFF). 0 runs, 0 hits, 0 errors, 0 LOB.
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    1
 
-LSU 8th - KELLEY to p for GERLICA. MIZE to 2b for ROBB. MARTINEZ to c for DAU. Smith flied out to cf (0-1 S). Woley pinch hit for Freeman. Woley walked (3-1 BBBSB). Duplantis reached on a fielding error by 3b (1-2 SBF); Woley advanced to second. Robertson doubled to left field, 2 RBI (1-1 BS); Duplantis scored, unearned; Woley scored. Watson flied out to lf (0-1 S). Reid pinch hit for Slaughter. JACOBS to p for KELLEY. Reid flied out to lf (0-2 SS). 2 runs, 1 hit, 1 error, 1 LOB.
+USC - Bottom of 4th
+Play Description 	MIC 	USC
+Acosta, M. walked (3-0 BBBB). 	3 	0
+Edson, D. grounded into double play 2b to ss to 1b (2-2 KBKFFB); Acosta, M. out on the play. 	3 	0
+Dempster, C. struck out looking (0-2 SSK). 	3 	0
 
-Air Force 9th - Woley to 3b. Newman to p for Robertson. Reid to ss. Templet to 1b. Strall to 2b for Smith. / for Norman. ZABOJNIK struck out looking (1-2 BFSS). GRAHAM pinch hit for EASLEY. GRAHAM grounded out to 2b (1-1 SB). BOOKER pinch hit for WISS. BOOKER struck out looking (2-2 BSBFS). 0 runs, 0 hits, 0 errors, 0 LOB. 
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
+
+Michigan - Top of 5th
+Play Description		MIC 	USC
+Lugbauer grounded out to 2b (1-2 KBS). 	3 	0
+Wenson lined out to lf (3-1 FBBB). 	3 	0
+Brdar flied out to cf (0-1 S). 	3 	0
+
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
+
+USC - Bottom of 5th
+Play Description 	MIC 	USC
+Nootbaar, L. struck out swinging (1-2 BKSS). 	3 	0
+Carrillo, A. homered to left center, RBI (1-1 BK). 	3 	1
+Shockey, B. flied out to rf (3-2 FBFFBB). 	3 	1
+Perez, B. singled up the middle (1-0 B). 	3 	1
+Murphy, K. popped up to ss (1-2 BFKF). 	3 	1
+
+Runs
+    1
+Hits
+    2
+Errors
+    0
+Left On Base
+    1
+
+Michigan - Top of 6th
+Play Description		MIC 	USC
+Poirier tripled to right center (2-0 BB). 	3 	1
+Engelmann fouled out to 1b (0-0). 	3 	1
+Slater fouled out to 3b (2-2 SBBF). 	3 	1
+Thomas singled to right field, RBI (2-2 BKBKFF); Poirier scored. 	4 	1
+Longrie, Q. to p for Wegman, B.. 	4 	1
+Thomas stole second. 	4 	1
+Bivens walked (3-2 SBBBFFB). 	4 	1
+Lewis walked (3-2 BBBKFB); Bivens advanced to second; Thomas advanced to third. 	4 	1
+Lugbauer struck out looking (1-2 BSKFK). 	4 	1
+
+Runs
+    1
+Hits
+    2
+Errors
+    0
+Left On Base
+    3
+
+USC - Bottom of 6th
+Play Description 	MIC 	USC
+Pritchard, T out at first 1b to p (0-1 K). 	4 	1
+Acosta, M. struck out swinging (0-2 KKS). 	4 	1
+Edson, D. singled through the left side (1-0 B). 	4 	1
+Dempster, C. struck out looking (3-2 KSBFBBK). 	4 	1
+
+Runs
+    0
+Hits
+    1
+Errors
+    0
+Left On Base
+    1
+
+Michigan - Top of 7th
+Play Description		MIC 	USC
+Bates, S. to p for Longrie, Q.. 	4 	1
+Wenson struck out swinging (2-2 BKBFS). 	4 	1
+Brdar lined out to ss (1-0 B). 	4 	1
+Poirier flied out to rf (1-2 KBF). 	4 	1
+
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
+
+USC - Bottom of 7th
+Play Description 	MIC 	USC
+Nootbaar, L. walked (3-2 BBKBKB). 	4 	1
+Carrillo, A. reached on a fielder's choice (3-2 BBSFB); Nootbaar, L. out at second ss to 2b. 	4 	1
+Tribucher to p for Nutof. 	4 	1
+Shockey, B. struck out swinging (2-2 BFKBS). 	4 	1
+Perez, B. walked (3-1 BBBSB); Carrillo, A. advanced to second. 	4 	1
+Fritts, A. pinch hit for Murphy, K.. 	4 	1
+Lehmann to p for Tribucher. 	4 	1
+Paulson, D. pinch hit for Fritts, A.. 	4 	1
+Paulson, D. walked (3-1 BKBBB); Perez, B. advanced to second; Carrillo, A. advanced to third. 	4 	1
+Sabol, B. pinch ran for Paulson, D.. 	4 	1
+Thomas, J. pinch hit for Pritchard, T. 	4 	1
+Thomas, J. struck out swinging (3-2 BBBKKFS). 	4 	1
+
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    3
+
+Michigan - Top of 8th
+Play Description		MIC 	USC
+Sabol, B. to c. 	4 	1
+Thomas, J. to 2b. 	4 	1
+Engelmann fouled out to 1b (1-0 B). 	4 	1
+Slater grounded out to 1b unassisted (0-1 S). 	4 	1
+Thomas grounded out to 2b (2-2 KSBB). 	4 	1
+
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
+
+USC - Bottom of 8th
+Play Description 	MIC 	USC
+Acosta, M. grounded out to 2b (0-1 F). 	4 	1
+Edson, D. singled up the middle (2-2 BKKB). 	4 	1
+Dempster, C. struck out looking (2-2 FBBFK). 	4 	1
+Nootbaar, L. hit by pitch (0-0); Edson, D. advanced to second. 	4 	1
+Lamb to p for Lehmann. 	4 	1
+Carrillo, A. struck out swinging (2-2 BKBKS). 	4 	1
+
+Runs
+    0
+Hits
+    1
+Errors
+    0
+Left On Base
+    2
+
+Michigan - Top of 9th
+Play Description		MIC 	USC
+Manning, A. to p for Bates, S.. 	4 	1
+Bivens struck out looking (3-2 BBBKKK). 	4 	1
+Lewis doubled down the lf line (3-2 FBBBK). 	4 	1
+Lugbauer struck out looking (1-2 KBFK). 	4 	1
+Wenson struck out swinging (2-2 SBBFS). 	4 	1
+
+Runs
+    0
+Hits
+    1
+Errors
+    0
+Left On Base
+    1
+
+USC - Bottom of 9th
+Play Description 	MIC 	USC
+Shockey, B. grounded out to 2b (0-1 K). 	4 	1
+Perez, B. flied out to cf (0-0). 	4 	1
+Sabol, B. grounded out to p (0-0). 	4 	1
+
+Runs
+    0
+Hits
+    0
+Errors
+    0
+Left On Base
+    0
+
+BIG Ten
+BIG Ten Network
+NCAA
+University of Michigan
+IMG
+SIDEARM Sports
+© 2017 Board of Regents of the University of Michigan. All Rights Reserved.
+Privacy Policy | Terms of Service | Contact Us
+
