@@ -66,7 +66,7 @@ public:
   int score[2];
   string teams[2];
   string bases[3];
-  string bases_duplicate[3];
+
   //string batter;
   bool is_name;
   int team;
@@ -185,7 +185,7 @@ public:
     }
     return player;
 
-    return "";
+    //return "";
 
   }
 
@@ -211,42 +211,38 @@ public:
   }
 
   void clean_bases(string player) {
+  
+  
     for (int i = 0; i < 3; ++i) {
-      if (bases_duplicate[i] == player)
-        bases_duplicate[i] = "";
+      
+        if (bases[i]==player) bases[i]="";
+     
+      
+        
     }
+
+   
   }
   void assign_bases(int base, string player) {
-
+    clean_bases(player);
     if (base <= 2)
-      bases_duplicate[base] = player;
+      bases[base] = player;
     else {
 
       score[team]++;
-      clean_bases(player);
-
+      
     }
+    
+
+    
 
   }
-  void update_bases() {
-    for (int i = 0; i < 3; ++i) {
-      bases[i] = bases_duplicate[i];
 
-    }
-
-    for (int i = 0; i < 3; ++i) {
-      for (int j = i + 1; j < 3; ++j) {
-        if (bases[i] == bases[j])
-          bases[i] = "";
-      }
-
-    }
-  }
 
   void reset() {
     for (int i = 0; i < 3; ++i) {
       bases[i] = "";
-      bases_duplicate[i] = "";
+   
     }
     buffer.clear();
     team = (team + 1) % 2;
@@ -262,6 +258,7 @@ public:
         if (keywords_array[j](buffer[i]) == true && j >= 0 && j <= 3) {
 
           clean_bases(get_player(i));
+
           outs++;
           break;
 
@@ -276,7 +273,7 @@ public:
 
       if (buffer[i][buffer[i].length() - 1] == '.' && new_batter) {
 
-        update_bases();
+       
 
         for (int i = 0; i < 3; ++i) {
           cout << bases[i] << endl;
